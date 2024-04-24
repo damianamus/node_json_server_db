@@ -1,0 +1,64 @@
+{
+  "profesores": [
+    {
+      "nombre": "Damian",
+      "apellido": "Amus",
+      "materias": [
+        {
+          "nombre": "NodeJs desde cero"
+        },
+        {
+          "nombre": "React desde cero"
+        },
+        {
+          "nombre": "JavaScript desde cero"
+        }
+      ]
+    },
+    {
+      "id": "8d60",
+      "nombre": "Marcos",
+      "apellido": "ADev",
+      "materias": [
+        {
+          "nombre": "Quimica"
+        },
+        {
+          "nombre": "Matematica"
+        },
+        {
+          "nombre": "Fisica"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Maria",
+      "apellido": "Rodirguez",
+      "promedio": 8.2
+    },
+    {
+      "nombre": "Alfonsina",
+      "apellido": "Storni",
+      "promedio": 10
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJs desde cero",
+      "duracion": 7,
+      "dificultad": "intermedia"
+    },
+    {
+      "nombre": "React desde cero",
+      "duracion": 7,
+      "dificultad": "intermedia"
+    },
+    {
+      "nombre": "NAngular 17 desde cero",
+      "duracion": 8,
+      "dificultad": "alta"
+    }
+  ]
+}
